@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#d73771</color>
+    <color name="colorAccentStatusBar">#D81B60</color>
+    <color name="perfect_guess">#00FF00</color>
+    <color name="c_1TO5">#5AFF00</color>
+    <color name="c_6TO10">#6EFF00</color>
+    <color name="c_11TO15">#82FF00</color>
+    <color name="c_16TO20">#96FF00</color>
+    <color name="c_21TO25">#AAFF00</color>
+    <color name="c_26TO30">#BEFF00</color>
+    <color name="c_31TO35">#FAD2FF00</color>
+    <color name="c_36TO40">#E6FA00</color>
+    <color name="c_41TO45">#FFFA00</color>
+    <color name="c_46TO50">#FFE600</color>
+    <color name="c_51TO55">#C2FFD200</color>
+    <color name="c_56TO60">#BFFFBE00</color>
+    <color name="c_61TO65">#FFAA00</color>
+    <color name="c_66TO70">#FF9600</color>
+    <color name="c_71TO75">#FF8200</color>
+    <color name="c_76TO80">#FF6E00</color>
+    <color name="c_81TO85">#FF5A00</color>
+    <color name="c_86TO90">#FA4600</color>
+    <color name="c_91TO95">#FF3200</color>
+    <color name="very_wrong">#ff0000</color>
+    <color name="default_white">#FFFFFF</color>
+</resources>

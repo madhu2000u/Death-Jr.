@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Death Jr.</string>
+    <string name="action_settings">Set Age</string>
+    <string name="hint">Enter Age</string>
+    <string name="button">GUESS</string>
+    <string name="age_range">Age must be between 1–100</string>
+    <string name="setage">Enter Age</string>
+    <string name="ok">OK</string>
+    <string name="very_high">Very High! :)</string>
+    <string name="perfect_guess">Perfect Guess</string>
+    <string name="high">High</string>
+    <string name="low">Low! :/</string>
+    <string name="very_low">Very Low! :(</string>
+    <string name="null_age_entered">Enter an age</string>
+    <string name="correct_guess">Correct Guesses</string>
+    <string name="incorrect_guess">Incorrect Guesses</string>
+</resources>
+
